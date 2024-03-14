@@ -37,3 +37,7 @@ download_images('tomates maduros', output_folder_mature)
 
 # Fazer o download das imagens de tomates verdes
 download_images('tomates verdes', output_folder_green)
+
+
+
+
