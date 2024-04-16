@@ -1,4 +1,4 @@
-**Título:** Projeto de Redução de Dimensionalidade em Imagens
+## **Projeto de Redução de Dimensionalidade em Imagens** 
 
 **Descrição:**
 O projeto de Redução de Dimensionalidade em Imagens tem como objetivo implementar algoritmos básicos para transformar imagens coloridas em representações mais simples e compactas. Utilizando Python, o projeto consiste em duas etapas principais: conversão para tons de cinza e binarização.
